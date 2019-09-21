@@ -20,7 +20,7 @@
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
               <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
               <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-            <title>AWS+ Sport – ReInvent</title>
+            <title>AWS+ Sport ReInvent</title>
             <link rel="dns-prefetch" href="https://fonts.googleapis.com/">
             <script src="static/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
             <style type="text/css">
@@ -384,25 +384,7 @@
 	<body class="home page-template-default page page-id-2 wp-custom-logo siteorigin-panels  siteorigin-panels-home woocommerce-js storefront-full-width-content right-sidebar woocommerce-active" style="">
 	<div id="page" class="hfeed site">
         <header id="masthead" class="site-header" role="banner" style="">
-            <div class="col-full">
-                <a class="skip-link screen-reader-text" href="/#site-navigation">Skip to navigation</a>
-                <a class="skip-link screen-reader-text" href="/#content">Skip to content</a>
-                <div class="site-branding">
-                    <a href="" class="custom-logo-link" rel="home" itemprop="url">
-                        <img width="470" height="271" src="static/H-logo_470x271.png" class="custom-logo" alt="H+ Sport" itemprop="logo" sizes="(max-width: 470px) 100vw, 470px">
-                    </a>
-                </div>
-                <div class="site-search">
-                    <div class="widget woocommerce widget_product_search">
-                        <form role="search" method="get" class="woocommerce-product-search" action="">
-                            <label class="screen-reader-text" for="woocommerce-product-search-field-0">Search for:</label>
-                            <input type="search" id="woocommerce-product-search-field-0" class="search-field" placeholder="Search products" value="" name="s">
-                            <button type="submit" value="Search">Search</button>
-                            <input type="hidden" name="post_type" value="product">
-                        </form>
-                    </div>
-                </div>
-            </div>
+
             <div class="storefront-primary-navigation">
                 <div class="col-full">
                     <nav class="navbar navbar-toggleable-sm navbar-trans">
@@ -450,6 +432,16 @@
                         </li>
                     </ul>
                     -->
+                </div>
+                <div class="site-search">
+                    <div class="widget woocommerce widget_product_search">
+                        <form role="search" method="get" class="woocommerce-product-search" action="">
+                            <label class="screen-reader-text" for="woocommerce-product-search-field-0">Search for:</label>
+                            <input type="search" id="woocommerce-product-search-field-0" class="search-field" placeholder="Search products" value="" name="s">
+                            <button type="submit" value="Search">Search</button>
+                            <input type="hidden" name="post_type" value="product">
+                        </form>
+                    </div>
                 </div>
             </div>
         </header>

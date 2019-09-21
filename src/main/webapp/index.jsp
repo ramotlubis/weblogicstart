@@ -401,9 +401,9 @@
                           </li>
                           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="products/">Products<span class="caret"></span></a>
                           	<ul class="dropdown-menu">
-                              <li><a href="product-category/active-wear-women/">H+ ACTIVE Apparel</a></li>
-                              <li><a href="product-category/supplements/">H+ POWER Supplements</a></li>
-                              <li><a href="products/mineral-water/">H+ SPORT Mineral Water</a></li>
+                              <li><a href="product-category/active-wear-women/">AWS+ ACTIVE Apparel</a></li>
+                              <li><a href="product-category/supplements/">AWS+ POWER Supplements</a></li>
+                              <li><a href="products/mineral-water/">AWS+ SPORT Mineral Water</a></li>
                             </ul>
                           </li>
                           <li><a href="shop/">Shop</a></li>
@@ -525,7 +525,7 @@
                                 <div id="panel-2-1-1-0" class="so-panel widget widget_sow-image panel-first-child panel-last-child" data-index="4">
                                     <div class="so-widget-sow-image so-widget-sow-image-default-8358abbce072">
                                         <div class="sow-image-container">
-                                            <img src="static/h-horizontal-logo.png" width="742" height="456"  sizes="(max-width: 742px) 100vw, 742px" title="h+ horizontal logo" class="so-widget-image">
+                                            <img src="static/h-horizontal-logo.png" width="742" height="456"  sizes="(max-width: 742px) 100vw, 742px" title="AWS+ horizontal logo" class="so-widget-image">
                                         </div>
                                     </div>
                                 </div>
@@ -572,23 +572,23 @@
                     <div id="sow-social-media-buttons-2" class="  widget widget_sow-social-media-buttons">
                         <div class="so-widget-sow-social-media-buttons so-widget-sow-social-media-buttons-atom-ff5ef387921d">
                             <div class="social-media-button-container">
-                                <a class="ow-button-hover sow-social-media-button-facebook sow-social-media-button" title="H+ Sport on Facebook" aria-label="H+ Sport on Facebook" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/pages/H-Sport/1388674971422183">
+                                <a class="ow-button-hover sow-social-media-button-facebook sow-social-media-button" title="AWS+ Sport on Facebook" aria-label="AWS+ Sport on Facebook" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/pages/H-Sport/1388674971422183">
                                     <span>
                                         <span class="sow-icon-fontawesome" data-sow-icon="f">
                                     </span></span>
                                 </a>
-                                <a class="ow-button-hover sow-social-media-button-twitter sow-social-media-button" title="H+ Sport on Twitter" aria-label="H+ Sport on Twitter" target="_blank" rel="noopener noreferrer" href="https://twitter.com/HPlusSport">
+                                <a class="ow-button-hover sow-social-media-button-twitter sow-social-media-button" title="AWS+ Sport on Twitter" aria-label="AWS+ Sport on Twitter" target="_blank" rel="noopener noreferrer" href="https://twitter.com/HPlusSport">
                                     <span>
                                         <span class="sow-icon-fontawesome" data-sow-icon="t"></span>
                                     </span>
                                 </a>
-                                <a class="ow-button-hover sow-social-media-button-instagram sow-social-media-button" title="H+ Sport on Instagram" aria-label="H+ Sport on Instagram" target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/hplussport/">
+                                <a class="ow-button-hover sow-social-media-button-instagram sow-social-media-button" title="AWS+ Sport on Instagram" aria-label="AWS+ Sport on Instagram" target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/hplussport/">
                                     <span>
                                         <span class="sow-icon-fontawesome" data-sow-icon="i"></span>
                                     </span>
                                 </a>
 
-                                <a class="ow-button-hover sow-social-media-button-pinterest sow-social-media-button" title="H+ Sport on Pinterest" aria-label="H+ Sport on Pinterest" target="_blank" rel="noopener noreferrer" href="https://www.pinterest.com/hplussport/">
+                                <a class="ow-button-hover sow-social-media-button-pinterest sow-social-media-button" title="AWS+ Sport on Pinterest" aria-label="AWS+ Sport on Pinterest" target="_blank" rel="noopener noreferrer" href="https://www.pinterest.com/hplussport/">
                                     <span>
                                         <span class="sow-icon-fontawesome" data-sow-icon="p"></span>
                                     </span>
@@ -607,7 +607,7 @@
                     </div>
                 </div>
             </div><!-- .footer-widgets.row-1 -->
-	        <div class="site-info">Copyright H+ Sport 2018<br><a href="https://woocommerce.com/" target="_blank" title="WooCommerce - The Best eCommerce Platform for WordPress" rel="author">Built with Storefront &amp; WooCommerce</a>.					</div><!-- .site-info -->
+	        <div class="site-info">Copyright AWS+ Sport 2018<br><a href="https://woocommerce.com/" target="_blank" title="WooCommerce - The Best eCommerce Platform for WordPress" rel="author">Built with Storefront &amp; WooCommerce</a>.					</div><!-- .site-info -->
 	            <div class="storefront-handheld-footer-bar">
 	                <ul class="columns-3">
                         <li class="my-account">

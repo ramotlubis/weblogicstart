@@ -16,8 +16,6 @@ repositories {
 
 dependencies {
     compile 'javax:javaee-api:7.0'
-    //compile group: 'javax.servlet', name: 'javax.servlet-api', version: '3.1.0'
-    //compile 'org.jboss.weld.servlet:weld-servlet:1.1.10.Final'
     compile 'org.hibernate:hibernate-validator:6.0.12.Final'
     compile 'jstl:jstl:1.2'
 

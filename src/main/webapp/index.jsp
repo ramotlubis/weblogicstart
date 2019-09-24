@@ -20,7 +20,7 @@
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
               <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
               <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-            <title>AWS+ Sport ReInvent</title>
+            <title>AWS Sport ReInvent</title>
             <link rel="dns-prefetch" href="https://fonts.googleapis.com/">
             <script src="static/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
             <style type="text/css">
@@ -266,7 +266,7 @@
                                 color: #000000;
                             }
             </style>
-            <link rel="stylesheet" id="storefront-icons-css" href="static/icons.css" type="text/css" media="all">
+        <link rel="stylesheet" id="storefront-icons-css" href="static/icons.css" type="text/css" media="all">
             <link rel="stylesheet" id="storefront-fonts-css" href="static/css" type="text/css" media="all">
             <link rel="stylesheet" id="storefront-woocommerce-style-css" href="static/woocommerce.css" type="text/css" media="all">
             <style id="storefront-woocommerce-style-inline-css" type="text/css">
@@ -412,7 +412,7 @@
                         </ul>
                       </div>
                     </nav>
-
+  
 
                     <!-- #site-navigation -->
                     <!--

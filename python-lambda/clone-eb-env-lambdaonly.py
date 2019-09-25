@@ -53,7 +53,7 @@ def handler(event, context):
         traceback.print_exc()
         Status="Failure"
         Message=("Error occured while executing this. The error is %s" %e)
-
+    return Status
 def CreateConfigTemplateBlue(AppName,BlueEnvId,TempName):
     ListTemplates = beanstalkclient.describe_applications(ApplicationNames=[AppName])['Applications'][0]['ConfigurationTemplates']
     count = 0

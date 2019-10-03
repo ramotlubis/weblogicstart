@@ -383,7 +383,7 @@
 	</head>
 	<body class="home page-template-default page page-id-2 wp-custom-logo siteorigin-panels  siteorigin-panels-home woocommerce-js storefront-full-width-content right-sidebar woocommerce-active" style="">
     
-        <h1>Hello World Hello World Hello World!</h1>
+        <h1>Hello World Hello World Hello World Hello World!</h1>
        <div id="page" class="hfeed site">
         <header id="masthead" class="site-header" role="banner" style="">
 
